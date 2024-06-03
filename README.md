@@ -4,7 +4,7 @@
 
 ## Summary
 
-This program uses a recursive async method to scrape a list of all artists on Spotify. I have provided the results from October 2023 (excluding "s " which was too large to import) which scaped over 13 million unique artists. If you would like to get a more updated list, follow instructions below to setup.
+This program uses a recursive async method to scrape a list of all artists on Spotify. I have provided the results from June 2023 (excluding "s " which was too large to import) which scaped over 13 million unique artists. If you would like to get a more updated list, follow instructions below to setup.
 
 ## Approach
 
